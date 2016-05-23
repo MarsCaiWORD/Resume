@@ -108,7 +108,7 @@ a:hover small {
 }
 
 .wrapper {
-
+   
 }   
 
 blockquote {
@@ -158,8 +158,9 @@ img {
 
 header {
   width:270px;
-  float:left;
+  height:auto;
   position:fixed;
+  overflow:auto;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
