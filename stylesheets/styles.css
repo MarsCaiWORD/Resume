@@ -104,8 +104,8 @@ img {
 header {
 width:18%;
 height:100%;
+position:fixed;
 
-float:left;
 padding-right:10px;
 overflow-y:auto;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -172,7 +172,7 @@ header ul a strong {
 
 section {
 
-float:left;
+float:right;
 width:80%;
 
   padding-bottom:50px;
