@@ -1,4 +1,5 @@
 var metas = document.getElementsByTagName('meta');
+   console.log($("h1"))
 var i;
 if (navigator.userAgent.match(/iPhone/i)) {
   for (i=0; i<metas.length; i++) {
